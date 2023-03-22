@@ -8,7 +8,7 @@
 ## Compile commands
 The following command is executed at the matlab command line
 ```
-mex -I/usr/include/opencv4 generateEllipseCandidates.cpp
+mex -I/usr/include/opencv4/ generateEllipseCandidates.cpp
 ```
 which would generate `generateEllipseCandidates.mexa64`
 
